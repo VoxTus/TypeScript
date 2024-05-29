@@ -37,7 +37,7 @@ console.log(greeting);
 
 // --> JavaScript
 ('use strict');
-var greeting = 'hello ' + (1 + 1);
+// var greeting = 'hello ' + (1 + 1);
 console.log(greeting);
 // -----
 (function () {
