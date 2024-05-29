@@ -13,7 +13,7 @@ const studentId = 123;
 const isActive = true;
 
 const student = {};
-student.name = 'Bob';
+// student.name = 'Bob';
 
 const numberList = [];
 numberList.push(1);
